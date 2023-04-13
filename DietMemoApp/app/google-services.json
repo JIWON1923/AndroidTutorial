@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446900289831",
+    "project_id": "dietapp-f57de",
+    "storage_bucket": "dietapp-f57de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446900289831:android:a3a13d38f5a84ff725a902",
+        "android_client_info": {
+          "package_name": "com.soi.dietmemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446900289831-s8dg6voemtqtcohpetlvck5a1ld36kck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAli8g87j4wLCrggMzgOvzwJHRF8plnzkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446900289831-s8dg6voemtqtcohpetlvck5a1ld36kck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
